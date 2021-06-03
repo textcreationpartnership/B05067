@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules and orders for the Court of the Upper Bench at Westminster made and published by the judges of the said court, in the terme of St. Michael, in the year 1654.</title>
+            <author>England and Wales. Court of King's Bench.</author>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05067</idno><idno type="EEBO-CITATION">51617781</idno>
+  <idno type="VID">175343</idno>
+  <idno type="EEBO-PROQUEST">2240908896</idno>
+  
+            <idno type="STC">Wing R2250A</idno>
+            <idno type="STC">ESTC R207806</idno>
+            <idno type="OCLC">51617781</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05067)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175343)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2730:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules and orders for the Court of the Upper Bench at Westminster made and published by the judges of the said court, in the terme of St. Michael, in the year 1654.</title>
+                  <author>England and Wales. Court of King's Bench.</author>
+               </titleStmt>
+               <extent>[2], 35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Abel Roper, at the Sunne against St. Dunstans Church in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the California State Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Court of King's Bench --  Early works to 1800.</term>
+               <term type="topical_term">Court rules --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175343:1"/>
+            <p>RULES AND ORDERS FOR THE COURT Of the Upper BENCH At <hi>WESTMINSTER,</hi> Made and published by the JUDGES of the said Court, in the Terme of St. <hi>Michael,</hi> In the year 1654.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Abel Roper,</hi> at the Sunne agrinst St. <hi>Dunstans</hi> Church in <hi>Fleetstreet.</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175343:2"/>
+            <pb n="1" facs="tcp:175343:2"/>
+            <head>RULES &amp; ORDERS FOR THE <hi>ƲPPER BENCH,</hi> In the Terme of St. <hi>Mi<g ref="char:EOLhyphen"/>chael,</hi> In the year of our LORD. 1654.</head>
+            <p n="1">1 <hi>FOr the reducing of Attornies, and Offcers, to their due attendance.</hi>
+            </p>
+            <p n="2">2 <hi>For the reformation of abuses of Sheriffs, and Bailiffs.</hi>
+            </p>
+            <p n="3">3 <hi>For discovery, and punishment of abu<g ref="char:EOLhyphen"/>ses in generall.</hi>
+            </p>
+            <p n="4">4 <hi>For the Constant preservation of OR<g ref="char:EOLhyphen"/>DER in the Court.</hi>
+            </p>
+            <p n="5">5 <hi>For setling a constant course of pra<g ref="char:EOLhyphen"/>ctice, pleadings, and proceedings, especially where there hath been variety of opinion, or practice.</hi>
+            </p>
+            <div type="part">
+               <pb n="2" facs="tcp:175343:3"/>
+               <head>Concerning Officers and Attornies.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat all Officers and Attor<g ref="char:EOLhyphen"/>nies of this Court be admit<g ref="char:EOLhyphen"/>ted of some Innes of Court, or Chancery, by the begin<g ref="char:EOLhyphen"/>ning of <hi>Hillary</hi> Terme next, or in the same Terme wherein they are admitted Officers or Attornies; and be in Commons one week in every Terme, and take chambers there, or in case that cannot be conveniently, yet to take chambers or dwellings in some conveni<g ref="char:EOLhyphen"/>ent places, and leave notice with the Butler, where their chamber or habitati<g ref="char:EOLhyphen"/>ons are; under pain of being put out of the Roll of Attornies.</p>
+               <p n="2">2 That all Officers and Attornies of this Court appear in person in this Court, upon, or before the fourteenth day of <hi>Michaelmas</hi> Terme, and upon, or before the seventh day of every other Terme, upon pain of ten shillings for the first default, twenty shillings for the second default, and putting out of the
+<pb n="3" facs="tcp:175343:3"/>Roll upon the third default, the appea<g ref="char:EOLhyphen"/>rance to be entered with the Prothono<g ref="char:EOLhyphen"/>tarie. And the defaulters to be delivered to the Court upon oath, if required within three daies after the time ap<g ref="char:EOLhyphen"/>pointed for appearance.</p>
+               <p n="3">3 That every Sheriff have his De<g ref="char:EOLhyphen"/>puty in this Court, to returne and re<g ref="char:EOLhyphen"/>ceive Writs. And that each Deputy yearly before <hi>Hillary</hi> Terme, have his name and the place of his residence in <hi>London</hi> or <hi>Westminster,</hi> set and continued up in Tables, in the Office of the Pro<g ref="char:EOLhyphen"/>thonotarie.</p>
+               <p n="4">4 That the Clerks of Assize, their Deputies or Assistants, do personally ap<g ref="char:EOLhyphen"/>pear with their <hi>Posteas</hi> on the first day of <hi>Easter</hi> and <hi>Michaelmas</hi> Terme; And the Deputy Sheriffs, and all other Offi<g ref="char:EOLhyphen"/>cers of the Court do personally appear by the Essoyn day of every second Re<g ref="char:EOLhyphen"/>turn of every Terme; and continue there during the residue of the Terme, without some just cause to the contrarie allowed by the Court.</p>
+               <p n="5">
+                  <pb n="4" facs="tcp:175343:4"/> 5 That for the future, Common Soli<g ref="char:EOLhyphen"/>citors be not admitted to practice in this Court, unlesse they be admited Attor<g ref="char:EOLhyphen"/>nies of either Bench; provided that it ex<g ref="char:EOLhyphen"/>tend not to the managing of Evidence at a Trial, nor to private Solicitors, or ser<g ref="char:EOLhyphen"/>vants of Corporations, or other persons in the causes of their Masters.</p>
+               <p n="6">6 That none be admitted an Attorny of this Court for the time to come, un<g ref="char:EOLhyphen"/>lesse he hath practized as a Common Solicitor in this Court by the space of five yeers now last past, or hath ser<g ref="char:EOLhyphen"/>ved, or shall have served by the space of five yeers as a Clerk to some Judge, Serjeant at Law, practising Councellour, Attorny, Clerk, or Officer of one of the Courts at <hi>Westm.</hi> unlesse his Master die, or give over his practice; And be also up<g ref="char:EOLhyphen"/>on examination, found of good ability, and honesty, for such imployment; And that sufficient proof (to be put into writing) be made of such service to the Prothonotary upon a desire of admit<g ref="char:EOLhyphen"/>tance, and then filed without Fee.</p>
+               <p n="7">
+                  <pb n="5" facs="tcp:175343:4"/> 7 That no person practice in ano<g ref="char:EOLhyphen"/>thers name, nor that any Attornie know<g ref="char:EOLhyphen"/>ingly permit another to practice in his name, upon pain of being put out of the Roll.</p>
+               <p n="8">8 That Attornies dismissed by one Court from their practise for misdemea<g ref="char:EOLhyphen"/>nours, be not after Certificate admitted to practise in another Court, it being contrary to the intent of the Law.</p>
+               <p n="9">9 That no Under-Sheriff, or Bai<g ref="char:EOLhyphen"/>liff of Sheriffs, or Liberties be admitted during such their imploiment, to practise as Attornies under pain of expulsion from the imployment of an Attorny, and not to be readmitted.</p>
+               <p n="10">10 That such Attornies as have not been attending their imployment in this Court, by the space of one year last past, unlesse hindered by sicknesse, be not allowed their priviledge of At<g ref="char:EOLhyphen"/>tornies.</p>
+               <p n="11">11 That for the prevention of main<g ref="char:EOLhyphen"/>tenance and Brocage, no Attornie bee Lessee in an Ejectment, nor Bail for a Defendant in this Court in any Action.</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:175343:5"/>
+               <head>Concerning Sheriffs and Bayliffs.</head>
+               <p>THat for the prevention and remedy of delayes and abuses in Sheriffs, Under-Sheriffs, Bayliffs of Liberties, and their Deputies, and other Bailiffs of She<g ref="char:EOLhyphen"/>riffs, &amp;c. in execution of Process and Writs; If it shall appear that any such Officer shall wilfully delay the Executi<g ref="char:EOLhyphen"/>on, or Return of any Process or Execu<g ref="char:EOLhyphen"/>tion, or shall take, or require any undue Fees for the same, or shall give notice to the Defendant, thereby to frustrate the Execution of any Process, or Writ; or having levied money, shall detain it in their hands, after the times of the Re<g ref="char:EOLhyphen"/>turns of their Writs, besides the ordina<g ref="char:EOLhyphen"/>ry course of Amerciaments: The con<g ref="char:EOLhyphen"/>tempt or misdemeanour appearing, an Attachment, Information, Commitment, or Fine to be as the Case requireth; and this as well in case of a late Sheriff, or person before mentioned, as of them at present in Office.</p>
+               <p>That to reforme the abuses by blanck-Warrants
+<pb n="7" facs="tcp:175343:5"/>granted by Sheriffs, whereby persons are arrested and driven to extor<g ref="char:EOLhyphen"/>ted compositions for their Liberty, with<g ref="char:EOLhyphen"/>out Process of Law, no Warrants be granted out to any Officer to Arrest or Attach any person before a Writ first come to the Sheriff.</p>
+               <p>And whereas Sheriffs have taken im<g ref="char:EOLhyphen"/>moderate and excessive Fees for executi<g ref="char:EOLhyphen"/>on of Writs of possession, and restituti<g ref="char:EOLhyphen"/>on of possession contrary to law; It is de<g ref="char:EOLhyphen"/>clared, that such immoderate Fees ought not to be taken, and in case such shall be taken, This Court to proceed to punish the same according to Law.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the reformation, and pu<g ref="char:EOLhyphen"/>nishment of abuses in general.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Rdered that a Jury of able and cre<g ref="char:EOLhyphen"/>dible Officers, Clerks, and Attor<g ref="char:EOLhyphen"/>nies, once in three yeers, be impannelled, and sworn to enquire.</p>
+               <p n="1">1 Of the points usually inquirable by <hi>Writ (viz.)</hi> Falsities, Contempts, Misprisions, and Offences.</p>
+               <p n="2">
+                  <pb n="8" facs="tcp:175343:6"/> 2 Of such who have been admitted Attornies or Clerks, and are notoriously unfit, their names to be presented to the Court, and they to be punished, or remo<g ref="char:EOLhyphen"/>ved as the case shall require.</p>
+               <p n="3">3 Of new or exacted Fees, and of those that have taken them under whatsoever pretence; And to prepare and present a Table of the due and just Fees, that the same may be fixed and continue in every Office, and likewise for the Marshalsey.</p>
+               <p>And that some persons be enjoyned and sworn to give Evidence <hi>(viz.)</hi> some Clerks of the Court, and some Attornies in every Countie, not excluding others.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the better preservation of Order among the Officers and Clerks, and observation of breach of Orders and misdemeanors.</head>
+               <p>THat the Court do once every year, in <hi>Michaelmas</hi> Terme, nominate 12 or more able and credible practisers in
+<pb n="9" facs="tcp:175343:6"/>the Court, to continue for the year com<g ref="char:EOLhyphen"/>ing, for the purposes hereafter limited.</p>
+               <p n="1">1 That they or any of them examine such persons as shall desire to be admit<g ref="char:EOLhyphen"/>ted Attornies, and appoint convenient times, and places for the same. And in order thereunto, That such persons as shall desire to be admitted Attornies; first, attend the Prothonotary with his proof of service, then to repair to the persons appointed to examine Attornies; and being approved, to be presented to the Court with the assignation of his Ap<g ref="char:EOLhyphen"/>probation, and then to be sworn in open Court, unlesse some just exception be a<g ref="char:EOLhyphen"/>gainst him.</p>
+               <p n="2">2 That they give information to the Court from time to time of Breaches of Orders, and miscarriages of Officers, At<g ref="char:EOLhyphen"/>tornies and Clerks.</p>
+               <p>That a setled course of practice and proceedings be setled, especially in those Causes where there hath been uncertain<g ref="char:EOLhyphen"/>tie, and that the inconveniencies in Pro<g ref="char:EOLhyphen"/>cess, Proceedings, and Pleadings, may be
+<pb n="10" facs="tcp:175343:7"/>regulated unto a due course, in order whereunto these severall things are or<g ref="char:EOLhyphen"/>dered and directed, according to the me<g ref="char:EOLhyphen"/>thod of proceedings.</p>
+            </div>
+            <div type="part">
+               <head>Concerning original Suits, and Pro<g ref="char:EOLhyphen"/>cess, and where laid.</head>
+               <p>THat Actions upon the Case, trespass for goods, assault, or imprisonment, arising in any English County, be laid in their proper Counties, unlesse they arise where the Justices of <hi>Ni. Pri.</hi> sel<g ref="char:EOLhyphen"/>dome come; and because Trespasse and Trover for goods, battery, imprisonment and slander, must needs be notorious in what County they arise. The Attorny knowingly laying them out of their pro<g ref="char:EOLhyphen"/>per County, unlesse in the Cases before expressed, or for such other causes as shal be allowed by the Judges of the Court, and duely made appear to be true, to be severely punished.</p>
+               <p>That although the Declaration bee delivered seven dayes before the last day of the next precedent Terme, or after,
+<pb n="11" facs="tcp:175343:7"/>yet before Plea upon Oath made the <hi>Visue</hi> may be changed upon motion in the said Transitory Actions the next Terme after, and the Defendant to plead to the new Action, as hee should have done in the other without delay.</p>
+               <p>That the <hi>Visue</hi> may be changed upon Oath, as before, though the Defendant come in by exigent.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Processe and serving thereof.</head>
+               <p>THat according to the provision of the Statute 31 <hi>Eliz.</hi> all Attornies that Sue out Process of Exigent, be care<g ref="char:EOLhyphen"/>full that Writs of Proclamation be deli<g ref="char:EOLhyphen"/>vered, and the Sheriffs do take care du<g ref="char:EOLhyphen"/>ly to execute the same.</p>
+               <p>That according to the Statute of 23 <hi>Hen.</hi> 6. A prisoner taken upon a <hi>Capias</hi> in Processe, be not discharged till he hath given Bond to appear, unlesse the Plain<g ref="char:EOLhyphen"/>tiff, or his Attorny shall consent to take an appearance without Bail, and in such case the Warrant of Attornie to appear to be subscribed or accepted by the De<g ref="char:EOLhyphen"/>fendants
+<pb n="12" facs="tcp:175343:8"/>Attornie, and such Warrant not to be revoked, and an Attachment to be granted against the Bailiff offend<g ref="char:EOLhyphen"/>ing herein, or against the Attornie refu<g ref="char:EOLhyphen"/>sing to appear, or procure an appear<g ref="char:EOLhyphen"/>ance, having so subscribed or accepted.</p>
+            </div>
+            <div type="part">
+               <head>Concerning <hi>H. Corp.</hi> to Sheriffs, and Goalers.</head>
+               <p>THat a <hi>Habeas Corp. cum causa ad fa<g ref="char:EOLhyphen"/>ciend. &amp; recipiend.</hi> directed to any Sheriff other then <hi>London</hi> or <hi>Middlesex,</hi> not to be returnable immediate, or in the Vacation-time, but at a day certain in Court, in the Terme, unlesse it be to deliver over to prison in discharge of his Bail.</p>
+               <p>That such <hi>Habeas Corp.</hi> to the Sheriffs of <hi>London</hi> or <hi>Middlesex,</hi> may be granted in Terme or Vacation-time returnable immediate.</p>
+               <p>That in case of a <hi>Habeas Corp.</hi> return<g ref="char:EOLhyphen"/>able immediate, the Sheriff ought to make his return the same day that the Writ is delivered, and to bring the body immediately as is required by the Writ,
+<pb n="13" facs="tcp:175343:8"/>without permitting him to wander a<g ref="char:EOLhyphen"/>broad by colour or pretence thereof.</p>
+               <p>That where a Writ of <hi>Habeas Corp.</hi> is directed to a Sheriff, Warden of the Fleet, or Goaler, the prisoner is to bee brought in custody according to the Writ at the day limited, without being permitted to wander abroad in the mean time under pretence of such Writ.</p>
+               <p>That a <hi>Habeas Corp. ad respondend.</hi> may be granted to the Warden of the Fleet, or the Keeper of an Inferiour Prison of a Libertie, or Franchise re<g ref="char:EOLhyphen"/>turnable at a day certaine in Court; and to be a good cause of Deteyner, as well as where a <hi>Capias ad respondend.</hi> comes to a Sheriff.</p>
+               <p>That a <hi>Habeas Corp. ad fatisfaciend.</hi> may be granted to the Warden of the Fleet, or to such Inferiour Goaler returnable in Court at a day certain, and the num<g ref="char:EOLhyphen"/>ber-Roll of the Judgement to be indor<g ref="char:EOLhyphen"/>sed upon the Writ by the Attorney. who sues it out, and such Writs to be a cause of Deteyner.</p>
+               <pb n="14" facs="tcp:175343:9"/>
+               <p> That if upon a <hi>Habeas Corp. cum causa,</hi> the Prisoner be returned charged with Process out of the <hi>Common-Bench,</hi> or <hi>Exchequer,</hi> though returnable at a day to come, the Prisoner may be committed with those causes.</p>
+               <p>If upon a <hi>Habeas Corp.</hi> or <hi>Cepi Corp.</hi> the party be returned in Custody, and Bailable, and special Bail requirable, the Bail not to to bee taken absolutely without consent of the Plaintiff, or his Attornie; and if taken <hi>De bene esse,</hi> the Prisoner not to be discharged till the Bail be assented unto, or the Plaintiff over-ruled in Court to accept the same upon examination.</p>
+            </div>
+            <div type="part">
+               <head>Concerning <hi>Habeas Corp.</hi> to Infe<g ref="char:EOLhyphen"/>riour Courts, and <hi>Procedendo.</hi>
+               </head>
+               <p>THat Writs of <hi>Habeas Corp.</hi> directed to the inferiour Courts of <hi>London, Westminster, Southwark,</hi> and other Courts
+<pb n="15" facs="tcp:175343:9"/>within five miles of <hi>London,</hi> may be re<g ref="char:EOLhyphen"/>turnable immediate; and if the Defen<g ref="char:EOLhyphen"/>dant intendeth to be bailed, then upon, or within four daies after allowance of the Writ, notice is to be given in wri<g ref="char:EOLhyphen"/>ting, of the names and addition of the Bail, the time when, and the Judge be<g ref="char:EOLhyphen"/>fore whom the same is intended to bee put in, to the Plaintiff, or his Attornie, or him that caused the plaint to be en<g ref="char:EOLhyphen"/>tred; or if none can be found, then no<g ref="char:EOLhyphen"/>tice of the premisses to be left in writing with the chief Clerk of the inferiour Court, or his Deputy, by the party that tenders the Bail, or his Attornie, and Oath made thereof, otherwise the Bail not to be taken, and a <hi>Procedendo</hi> gran<g ref="char:EOLhyphen"/>ted, if desired, before Bail accepted.</p>
+               <p>That if no Bail in such cases be put in within eight daies after the <hi>Habeas Corp.</hi> allowed in those Courts when it is returnable immediate, a <hi>Procedendo</hi> may be granted by any Judge of the Court, if desired, before Bail taken.</p>
+               <p>That if a Bail be taken in the absence of the Plaintiff, or his Attornie, the same
+<pb n="16" facs="tcp:175343:10"/>is to be taken <hi>De bene esse;</hi> and if no Ex<g ref="char:EOLhyphen"/>ceptions be taken within twenty dayes after notice given to the Plaintiff, or his Attorny, of the names of the Bail, and before whom taken; Then upon Oath made of such notice, the Bail to be deli<g ref="char:EOLhyphen"/>vered out to be filed.</p>
+               <p>That if Bail upon a <hi>Habeas Corp.</hi> be taken before a Judge at his Cham<g ref="char:EOLhyphen"/>ber, and not excepted against, if not fi<g ref="char:EOLhyphen"/>led within four dayes after the twenty dayes, a <hi>Procedendo</hi> may be granted, up<g ref="char:EOLhyphen"/>on certificate that it is not filed.</p>
+               <p>That in Terme-time the Plaintiff in the Inferiour Court may speed the De<g ref="char:EOLhyphen"/>fendant to put in, or to file his Bail by rules given, and if not filed according to Rules, upon certificate thereof, a <hi>Proce<g ref="char:EOLhyphen"/>dendo</hi> to be granted.</p>
+            </div>
+            <div type="part">
+               <head>Concerning special Bail.</head>
+               <p>THat in all Causes of removal, be it by <hi>Habeas Corp.</hi> Priviledge,
+<pb n="17" facs="tcp:175343:10"/>or <hi>Cerciorari,</hi> special Bail ought to be given.</p>
+               <p>That upon a Cause removed, by <hi>Ha<g ref="char:EOLhyphen"/>beas Corp.</hi> out of the Courts of <hi>Can<g ref="char:EOLhyphen"/>terbury, Southampton, Hull, Lichfield,</hi> or <hi>Poole,</hi> which are Counties where the Judges of <hi>Ni. Pri.</hi> seldome come, if the Action be transitory, it be laid in the County of <hi>Kent, Southampton, York, Stafford,</hi> or <hi>Dorset,</hi> where the Town and County lieth.</p>
+               <p>That in Covenant, because the Dama<g ref="char:EOLhyphen"/>ges uncertain till declaration, Bail at discretion.</p>
+               <p>That in Battery, Conspiracy, false Im<g ref="char:EOLhyphen"/>prisonment, no speciall Bail of Course without speciall Motion and Order.</p>
+               <p>That in Slander no speciall Bail, ex<g ref="char:EOLhyphen"/>cept in Slander of Title, wherein to be left to discretion of the Judges.</p>
+               <p>That in Priviledge (other then for Fees or disbursements in Court, as an Attornie of this Court) Bail at dis<g ref="char:EOLhyphen"/>cretion
+<pb n="18" facs="tcp:175343:11"/>of the Court, in such case where<g ref="char:EOLhyphen"/>in a Suit by a Common person, speciall Bail not requisite.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Appearances, &amp; entring thereof.</head>
+               <p>THat an Attornie of either Bench accepting a Warrant, or subscribing a Processe, Declaration or Warrant to appear, be compelled to cause an ap<g ref="char:EOLhyphen"/>pearance, or liable to an Attachment, or put out of the Roll, as the cause re<g ref="char:EOLhyphen"/>quires; and the Party not to be recei<g ref="char:EOLhyphen"/>ved to Countermand such appearance after his Reteyner.</p>
+               <p>That no person without Rule of Court, Order of Judge, or Prothonotary, and notice to the adverse Party or his Attor<g ref="char:EOLhyphen"/>nie, change or shift his Attornie; And such Attornie newlie coming in, to take notice at his perill, of the Rules where<g ref="char:EOLhyphen"/>unto the former Attornie was liable, had he continued.</p>
+               <pb n="19" facs="tcp:175343:11"/>
+               <p> That a Reteyner of an Attornie of the Common Pleas, by an Attorney of the Upper-Bench, and <hi>E converso,</hi> be a suf<g ref="char:EOLhyphen"/>ficient excuse to the Attorney so retey<g ref="char:EOLhyphen"/>ned, acting according to such Reteyner; and the Attorney so reteyning, without warrant from the Party, to be liable to punishment.</p>
+            </div>
+            <div type="part">
+               <head>Rules to Declare and Plead.</head>
+               <p>IF the Defendant be committed to the Prison of the <hi>Marshalsey,</hi> by the Pro<g ref="char:EOLhyphen"/>cesse of this Court, the Prisoner giving Rules to declare, and notice thereof to the Plaintiff or his Attorney, and Oath thereof made, The Plaintiff not De<g ref="char:EOLhyphen"/>claring before the end of the second Terme after Commitment inclusively, Then the Defendant in reference there<g ref="char:EOLhyphen"/>unto, to be discharged of the Imprison<g ref="char:EOLhyphen"/>ment in the end of the second Term up<g ref="char:EOLhyphen"/>on Common Bail.</p>
+               <pb n="20" facs="tcp:175343:12"/>
+               <p> And if any Defendant be committed to any other Prison, upon any Processe of this Court, giving Rules and notice as before, and Oath thereof made; If the Plaintiff do not remove the prisoner, and Declare before the end of the se<g ref="char:EOLhyphen"/>cond Term after the Commitment in<g ref="char:EOLhyphen"/>clusively, Then the Defendant in refe<g ref="char:EOLhyphen"/>rence thereunto likewise to be discharg<g ref="char:EOLhyphen"/>ed of the Imprisonment in the end of the second Term, upon Common Bail.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Declarations.</head>
+               <p>FOr avoiding of long and unnecessa<g ref="char:EOLhyphen"/>ry repetitions of the Original Writ in Actions upon the Case, and Personal Actions upon Penal Statutes.</p>
+               <p>That Declarations in Actions of Tres<g ref="char:EOLhyphen"/>passe upon the Case, or Personal Acti<g ref="char:EOLhyphen"/>ons upon any general Statute, namely, <hi>Hue</hi> and <hi>Cry, Monopolies,</hi> or for a Suit in the Admiralty, and such like, other
+<pb n="21" facs="tcp:175343:12"/>then Debt, repeat not the Originall Writ, but only the nature of the Action, <hi>viz. A. B.</hi> was Attached to answer <hi>C. D.</hi> in Plea of Trespasse upon the Case, or in a Plea of Trespass and contempt against the Form of the Statute.</p>
+               <p>For the avoiding of the Common Bar, and new Assignement.</p>
+               <p>The Declaration upon an Original <hi>Quare Clausum fregit</hi> may mention the place certainly, and so to prevent the use and necessity of the Common Barre and new Assignement.</p>
+            </div>
+            <div type="part">
+               <head>That unnecessary Length of Decla<g ref="char:EOLhyphen"/>rations be reformed, and in Order thereunto,</head>
+               <p>THat in Actions of Covenant, not to repeat more of the Deed then is necessary for the Assignement of the Breach, and not to repeat the Covenant in the conclusion.</p>
+               <pb n="22" facs="tcp:175343:13"/>
+               <p> In Actions of Slander long Pream<g ref="char:EOLhyphen"/>bles forborne, and no more enducement then what is necessary for the mainte<g ref="char:EOLhyphen"/>nance of the Action; but when it re<g ref="char:EOLhyphen"/>quires a speciall enducement, or collo<g ref="char:EOLhyphen"/>quium.</p>
+               <p>That in Actions upon generall Sta<g ref="char:EOLhyphen"/>tutes, the Declaration not to repeat the Statute, but to conclude against the form of the Statute, in such case made and provided; as in case of Debt upon the Statute of 2 <hi>Ed.</hi> 6. for Tythes, and 32 <hi>Hen.</hi> 8. for maintenance, 21 <hi>Jac.</hi> of Mo<g ref="char:EOLhyphen"/>nopolies.</p>
+               <p>That in Actions of Debt upon a judge<g ref="char:EOLhyphen"/>ment had in the Courts at <hi>Westminster,</hi> to recite onely the judgement; but if a judgement had by or against an Execu<g ref="char:EOLhyphen"/>tor or Administrator, then the Action of Debt upon that judgement, to repeat the declaration and judgement.</p>
+               <p>That the Plaintiff may amend his De<g ref="char:EOLhyphen"/>claration paying costs, or giving an Im<g ref="char:EOLhyphen"/>pariance at the Plaintiffs election; by the
+<pb n="23" facs="tcp:175343:13"/>order of Court, or a Judge after it is en<g ref="char:EOLhyphen"/>tred, if the amendment be but a small matter, that it doth not deface the Roll.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the entring of Rolls, and by Whom.</head>
+               <p>THat no Rolls be delivered to bee Entred but to the Prothonotaries Clerks.</p>
+               <p>That no Rolls be carried into the Countrey, under pain that the Offender be excluded from entring any more Rols afterwards as a Clerk.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Imparlances upon Suits by Original.</head>
+               <p>FOrasmuch as some inconveniences do sometimes happen to the Plain<g ref="char:EOLhyphen"/>tiffs by entring their Declarations in
+<pb n="24" facs="tcp:175343:14"/>speciall Actions: It is therefore Order<g ref="char:EOLhyphen"/>ed, that the Plaintiffs in such speciall Actions, shall have liberty to enter Im<g ref="char:EOLhyphen"/>parlances the Terme following, entring the same of the first Term with an Inci<g ref="char:EOLhyphen"/>pitur, as it hath been usuall; and that all other Imparlances be duly entred before any Issues, Demurrers or Judgements, thereupon be entred.</p>
+               <p>That if a Defendant appear the first Term, and give no Rules to Declare, the Defendants Attorney may the second Terme be compelled to accept a Decla<g ref="char:EOLhyphen"/>ration with an Imparlance, and the De<g ref="char:EOLhyphen"/>claration may be entred as of that Term, with an Imparlance over to the next Term, or in the first Term with an Inci<g ref="char:EOLhyphen"/>pitur as before, as the case shall re<g ref="char:EOLhyphen"/>quire.</p>
+               <p>That if the Plaintiff declare not the second Terme, though the Defendant give no Rules; yet a Non suit may be entred at the end of the second Terme, upon a continuance over by him, by <hi>dies datus,</hi> but not the third Terme or after.</p>
+               <pb n="25" facs="tcp:175343:14"/>
+               <p> Upon a meer reall Action an Impar<g ref="char:EOLhyphen"/>lance to be of Course.</p>
+               <p>That in Ejectment, or any personall Action, if the appearance be the first return of <hi>Hillary</hi> or <hi>Trinity</hi> Terme, no Imparlance without consent or speciall Rule.</p>
+               <p>In Causes other then <hi>London</hi> or <hi>Mid<g ref="char:EOLhyphen"/>dlesex,</hi> if the appearance be before <hi>Crasti<g ref="char:EOLhyphen"/>num Martini,</hi> or <hi>Mensem Pasche,</hi> no Impariance without consent or speciall Rule; but if upon, or after those returns an Imparlance of Course.</p>
+               <p>In <hi>London</hi> or <hi>Middlesex,</hi> if the appear<g ref="char:EOLhyphen"/>ance be before <hi>Crastinum Ascensionis,</hi> or before the last return of any other Term, no Imparlance without consent or speci<g ref="char:EOLhyphen"/>all Rule, but the Defendant to plead as of that Terme, within fourteen dayes af<g ref="char:EOLhyphen"/>ter the end of the Terme, upon Rule gi<g ref="char:EOLhyphen"/>ven to answer; but if of <hi>Crastinum As<g ref="char:EOLhyphen"/>censionis,</hi> or the last Return, then an Im<g ref="char:EOLhyphen"/>parlance of Course.</p>
+               <p>If a Writ be Returnable <hi>Quinque Pas<g ref="char:EOLhyphen"/>che,</hi> or the last Return of any Terme, the
+<pb n="26" facs="tcp:175343:15"/>Defendant giving Rules, and calling for a Declaration, if it be not delivered four dayes before the Essoine day of the en<g ref="char:EOLhyphen"/>suing Terme, or more, a Non-suit to be entred.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Pleading.</head>
+               <p>THe Common Bar and new Assign<g ref="char:EOLhyphen"/>ment to be forborn, where the cer<g ref="char:EOLhyphen"/>tainty is contained in the Declaration, equivalent to a new Assignment.</p>
+               <p>That Pleading be succinct, without unnecessary repetitions.</p>
+               <p>That in the pleading of an outlawry, the mean Processe be not repeated, but the Exigent and Outlawry joyned to the commencing of the Suit.</p>
+               <p>That in pleading a general Statute, the Statute be not recited, as the Statute of 21 <hi>Iacobi</hi> of Limitations.</p>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:175343:15"/>
+               <head>Concerning Demurrers.</head>
+               <p>THat according to the Statute of 27 <hi>Eliz.</hi> upon Demurrers, the Causes be specially assigned, and not involved with generall unapplied expressions of double, negative pregnant, uncertaine, wanting form, and the like; but to shew specially wherein, that the other party may, as the cause shall require, either joyn in Demurrer, or amend paying Costs, or discontinue his Action.</p>
+               <p>That it be Declared that matters of Form, as well on the part of him that Demurres as of him that joyns, in all parts of the Pleading are discharged, unlesse such as are specially assigned up<g ref="char:EOLhyphen"/>on the Demurrer.</p>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:175343:16"/>
+               <head>Concerning Trials, and Notice of Trials and Enquiries.</head>
+               <p>IF the Plaintiff give notice of a Triall, and he proceed not, the Plaintiff not to take it down to Triall again without new notice to be given, unlesse by con<g ref="char:EOLhyphen"/>sent or Rule of Court.</p>
+               <p>That in case of such Warning, and no proceeding, the Defendant upon mo<g ref="char:EOLhyphen"/>tion to have his Costs of his former At<g ref="char:EOLhyphen"/>tendance to be taxed by the Prothono<g ref="char:EOLhyphen"/>tary, unlesse he give the Defendant war<g ref="char:EOLhyphen"/>ning in convenient time that hee would not proceed, or shew cause to be allow<g ref="char:EOLhyphen"/>ed in the Court in excuse of such Costs.</p>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:175343:16"/>
+               <head>Concerning Trials at Bar.</head>
+               <p>THat for the remedy of excessive Charges of the Trials at the Bar, especially whilest the Jury lieth out, it is Ordered that a Jury lying out one night after a privie Verdict delive<g ref="char:EOLhyphen"/>red, there be allowed for the whole Diet of each Jury-man that night, no more then three shillings four pence a piece, and for two Tipstaves and one Crier or Usher, to each of them no more then two shillings Ordinary, be<g ref="char:EOLhyphen"/>sides the Charges of the Jurors Lodg<g ref="char:EOLhyphen"/>ing.</p>
+            </div>
+            <div type="part">
+               <pb n="30" facs="tcp:175343:17"/>
+               <head>Concerning Special Verdicts at the Bar, and by <hi>Ni. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ri.</hi>
+               </head>
+               <p>IN finding of speciall Verdicts where the Points are single, and not compli<g ref="char:EOLhyphen"/>cated, and no special conclusion, the Councel, if required, do subscribe the Points in question, and agree to amend the Omissions, or mistakes in the mean Conveyances, according to the truth, to bring the Points in question to Judge<g ref="char:EOLhyphen"/>ment.</p>
+               <p>That unnecessary finding of Deeds in <hi>haec verba,</hi> where the question rests not upon them, but are onely derivation of Title, to be spared and found shortly, ac<g ref="char:EOLhyphen"/>cording to the substance they bear in re<g ref="char:EOLhyphen"/>ference to the Deed, as Feoffment, Lease, Grant, &amp;c.</p>
+            </div>
+            <div type="part">
+               <pb n="31" facs="tcp:175343:17"/>
+               <head>Concerning new Trials.</head>
+               <p>THat where a Verdict finds entire Damages, where Damages are the principal, &amp; part not actionable, though Judgement be arrested, yet by Rule of Court, a <hi>Venire facias de novo</hi> may issue, as upon an ill Verdict; And upon the new Triall, the Party may sever his Da<g ref="char:EOLhyphen"/>mages.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Judgements.</head>
+               <p>THat upon a Cause removed by <hi>Habeas Corpus</hi> out of an Inferiour Court, having Jurisdiction of the Cause, if Judgement for the Plaintiff, the costs below to be considered and cast into the
+<pb n="32" facs="tcp:175343:18"/>Judgement; if for the Defendant, the charges of putting in Bail.</p>
+               <p>That in a Judgement by <hi>non sum in<g ref="char:EOLhyphen"/>formatus,</hi> or <hi>nihil dicit</hi> in an <hi>ejectione firme,</hi> the Capiatur be entred upon the first Judgement.</p>
+               <p>And lastly, it is declared, That as the Court doth expect that all the Rules and Orders before mentioned, shall be due<g ref="char:EOLhyphen"/>ly observed; And are resolved severely to punish such as shall break or neglect any of them. So it is further declared, That all other former Orders and Rules yet in force, not hereby altered, suspend<g ref="char:EOLhyphen"/>ed, or adnulled, shall be likewise obser<g ref="char:EOLhyphen"/>ved &amp; put in execution according to the true intent and meaning of the same.</p>
+               <closer>
+                  <signed>By the Court.
+<list>
+                        <item>
+                           <hi>Henry Rolle.</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Aske.</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Newdigate.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="oath">
+            <pb n="33" facs="tcp:175343:18"/>
+            <head>The Oath to be taken by eve<g ref="char:EOLhyphen"/>ry Attorney of the Ʋpper Bench before their admit<g ref="char:EOLhyphen"/>tance.</head>
+            <p>YOu shall do no false<g ref="char:EOLhyphen"/>hood or deceit, nor con<g ref="char:EOLhyphen"/>sent to any to be done within the Court of Upper Bench. And if you shall know of any to bee done, you shall give notice thereof to the Lord Chief Justice, and o<g ref="char:EOLhyphen"/>ther his brethren, Justices of that Court, that it may bee
+<pb n="34" facs="tcp:175343:19"/>reformed. You shall delay no man for lucre, or malice: You shall encrease no Fees, but you shall bee contented with the old Fees accusto<g ref="char:EOLhyphen"/>med: You shall Plead no Forrein Pleas, nor sue any Forrein Suits unlawfully to hurt any man, but such as shall stand with the Order of the Law, and your Consci<g ref="char:EOLhyphen"/>ence: You shall Seal all such Process as you shall sue out of this Court, with the Seal of the said Court, and see the Officer satisfied for the same; You shall not wittingly nor willingly sue, or procure to
+<pb n="35" facs="tcp:175343:19"/>be sued, any false Suits, nor give aid nor consent to the same, upon pain to be expul<g ref="char:EOLhyphen"/>sed the said Court for ever. And further, You shall use and demean your self in the Office of an Attorney with<g ref="char:EOLhyphen"/>in this Court, according to your Learning and discre<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>So help you God.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175343:20"/>
+            <pb facs="tcp:175343:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
